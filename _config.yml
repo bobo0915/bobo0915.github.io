@@ -17,8 +17,7 @@ favicon: favicon.png
 
 repository: bobo0915/bobo0915.github.io
 github_url: https://github.com/bobo0915
-cnblog_url: http://github.com/bobo0915
-url: http://github.com/bobo0915
+url: http://bobo0915.github.io
 enforce_ssl: github.com
 
 ## Gem
